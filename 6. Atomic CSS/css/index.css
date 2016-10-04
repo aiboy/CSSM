@@ -1,0 +1,27 @@
+.D\(f\) {
+  display: flex;
+}
+
+.AI\(fs\) {
+  align-items: flex-start;
+}
+
+.M\(default\) {
+  margin: 1em;
+}
+
+.F\(1\) {
+  flex: 1;
+}
+
+.W\(400px\) {
+  width: 400px;  
+}
+
+.Bg\(default\) {
+  background: skyblue;
+}
+
+.Bg\(special-offer\) {
+  background: red;
+}

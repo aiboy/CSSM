@@ -1,0 +1,6 @@
+.media {
+  display: flex;
+  align-items: flex-start;
+  background: skyblue;
+  width: 400px;
+}

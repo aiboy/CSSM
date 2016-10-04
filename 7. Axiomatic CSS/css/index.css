@@ -1,0 +1,18 @@
+article {
+  display: flex;
+  align-items: flex-start;
+  width: 400px;
+  background: skyblue;
+}
+
+article > img {
+  margin: 1em;
+}
+
+article > p {
+  flex: 1;
+}
+
+article + article {
+  margin-top: 20px;
+}

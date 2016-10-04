@@ -1,0 +1,9 @@
+.media-default {
+  background: skyblue;
+  width: 400px;
+}
+
+.media-special-offer {
+  background: red;
+  width: 400px;
+}

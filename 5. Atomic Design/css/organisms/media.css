@@ -1,0 +1,13 @@
+.media {
+  display: flex;
+  align-items: flex-start;
+  width: 400px;  
+}
+
+.media-default {
+  background: skyblue;
+}
+
+.media-special-offer {
+  background: red;
+}
